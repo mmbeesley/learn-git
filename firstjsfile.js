@@ -1,3 +1,3 @@
 const obj = {
-    name: 'Datthew'
+    name: 'Matthew'
 }
